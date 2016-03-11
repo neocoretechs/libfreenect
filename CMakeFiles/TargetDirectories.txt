@@ -1,0 +1,7 @@
+/home/odroid/libfreenect-master/fakenect/CMakeFiles/fakenect.dir
+/home/odroid/libfreenect-master/src/CMakeFiles/freenect.dir
+/home/odroid/libfreenect-master/wrappers/c_sync/CMakeFiles/freenect_sync.dir
+/home/odroid/libfreenect-master/src/CMakeFiles/freenectstatic.dir
+/home/odroid/libfreenect-master/examples/CMakeFiles/glview.dir
+/home/odroid/libfreenect-master/fakenect/CMakeFiles/record.dir
+/home/odroid/libfreenect-master/CMakeFiles/uninstall.dir

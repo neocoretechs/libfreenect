@@ -1,0 +1,1 @@
+/home/odroid/libfreenect-master/examples/CMakeFiles/glview.dir

@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/glview.dir/glview.o  -o glview -rdynamic -lfreenect -lGLU -lGL -lSM -lICE -lX11 -lXext -lglut -lXmu -lXi -lpthread -lm 

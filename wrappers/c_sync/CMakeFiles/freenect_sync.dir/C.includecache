@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/odroid/libfreenect-master/wrappers/c_sync/libfreenect_sync.c
+libfreenect.h
+-
+stdio.h
+-
+pthread.h
+-
+string.h
+-
+stdlib.h
+-
+libfreenect_sync.h
+/home/odroid/libfreenect-master/wrappers/c_sync/libfreenect_sync.h
+
+/home/odroid/libfreenect-master/wrappers/c_sync/libfreenect_sync.h
+
+include/libfreenect.h
+stdint.h
+-
+libusb-1.0/libusb.h
+-
+
